@@ -22,3 +22,18 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# Node
+node_modules/
+.env
+
+# Build
+dist/
+build/
