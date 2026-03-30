@@ -63,3 +63,4 @@ C:\Users\joshm\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\r
 C:\Users\joshm\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\WaterProject.API.pdb
 C:\Users\joshm\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\WaterProject.API.genruntimeconfig.cache
 C:\Users\joshm\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\ref\WaterProject.API.dll
+C:\Users\joshm\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\WaterProject.API.sourcelink.json
