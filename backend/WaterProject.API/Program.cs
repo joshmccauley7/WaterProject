@@ -15,7 +15,7 @@ builder.Services.AddDbContext<WaterDbContext>(options =>
 builder.Services.AddCors(options =>
     options.AddPolicy("AllowReactAppBlah",
     policy => {
-        policy.WithOrigins("http://localhost:3000")
+        policy.WithOrigins("http://localhost:3000", "https://wonderful-pebble-0d015301e.2.azurestaticapps.net")
             .AllowAnyHeader()
             .AllowAnyMethod();
 }));
